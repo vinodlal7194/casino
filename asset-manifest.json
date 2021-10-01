@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/casino/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/casino/static/js/main.27b357fe.chunk.js",
+    "main.js.map": "/casino/static/js/main.27b357fe.chunk.js.map",
+    "runtime-main.js": "/casino/static/js/runtime-main.ca2a1a99.js",
+    "runtime-main.js.map": "/casino/static/js/runtime-main.ca2a1a99.js.map",
+    "static/js/2.f54339ef.chunk.js": "/casino/static/js/2.f54339ef.chunk.js",
+    "static/js/2.f54339ef.chunk.js.map": "/casino/static/js/2.f54339ef.chunk.js.map",
+    "index.html": "/casino/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/casino/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.f54339ef.chunk.js.LICENSE.txt": "/casino/static/js/2.f54339ef.chunk.js.LICENSE.txt",
+    "static/media/clover.8d9c6e99.png": "/casino/static/media/clover.8d9c6e99.png",
+    "static/media/diamond.8a1b271e.png": "/casino/static/media/diamond.8a1b271e.png",
+    "static/media/hearts.ab7fc118.png": "/casino/static/media/hearts.ab7fc118.png",
+    "static/media/spade.640d2314.png": "/casino/static/media/spade.640d2314.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ca2a1a99.js",
+    "static/js/2.f54339ef.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.27b357fe.chunk.js"
+  ]
+}
